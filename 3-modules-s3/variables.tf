@@ -5,10 +5,10 @@ variable "region" {
 
 variable "bucket_name" {
   description = "Nom du bucket pour servir le fichier"
-  type    = string
+  type        = string
 }
 
 variable "random_string_length" {
-  description =  "Taille de la chaine de charactère aléatoire généré dans le fichier html"
-  type    = string
+  description = "Taille de la chaine de charactère aléatoire généré dans le fichier html"
+  type        = number
 }
