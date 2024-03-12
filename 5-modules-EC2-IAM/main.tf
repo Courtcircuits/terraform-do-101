@@ -18,6 +18,12 @@ module "sns" {
   sns_lambda_function_name = "lambdaFunctionEmail"
 }
 
+module "notification" {
+  source = "./modules/metrics"
+  sns_arn = module.sns.sns_topic_arn
+  threshold = 3
+}
+
 variable "instances" {
   description = "The EC2 instance descriptions"
   type = list(object({
