@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "e914f01ce530c4cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "de281e668d96404f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "202af1c1645b53af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5-modules-EC2-IAM/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a00733d0aca8b13",
+    "type": "split",
+    "children": [
+      {
+        "id": "af916b12a53fa61d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25bee5ed20bfefab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8bfd959f0d1f5791",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "517f34d7941824e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4fc5a7ec787a0541",
+    "type": "split",
+    "children": [
+      {
+        "id": "740434370cb2db5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "187adc45ee124d01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5-modules-EC2-IAM/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba708d266a114c26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5-modules-EC2-IAM/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b3d46a53a7c6b34",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0dc827b4ec99c1d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5-modules-EC2-IAM/README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "202af1c1645b53af",
+  "lastOpenFiles": [
+    "5-modules-EC2-IAM/terraform.tfstate.backup",
+    "5-modules-EC2-IAM/terraform.tfstate",
+    "5-modules-EC2-IAM/terraform.tfvars",
+    "5-modules-EC2-IAM/variables.tf",
+    "5-modules-EC2-IAM/modules/sns/lambda/index.py",
+    "5-modules-EC2-IAM/outputs.tf",
+    "5-modules-EC2-IAM/modules/sns/lambda/lambda.zip",
+    "5-modules-EC2-IAM/provider.tf",
+    "5-modules-EC2-IAM/main.tf",
+    "5-modules-EC2-IAM/modules/sns/outputs.tf",
+    "5-modules-EC2-IAM/modules/sns/outputs.",
+    "README.md",
+    "1-random/1-README.md",
+    "2-bucket/2-README.md",
+    "5-modules-EC2-IAM/README.md"
+  ]
+}
